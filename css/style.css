@@ -2,7 +2,7 @@ body{background-color: #d1d1d1;}
 .container{}
 h1{margin-top: 0;padding: 20px;}
 /**/
-.logoGif{max-width: 200px;}
+.logoGif{max-width: 200px;border-radius: 10px;}
 
 figcaption{padding-top: 18px;}
 #skrillex{
