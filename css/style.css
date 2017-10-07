@@ -1,24 +1,54 @@
-body{background-color: #d1d1d1;}
-.container{}
-h1{margin-top: 0;padding: 20px;}
-/**/
-.logoGif{max-width: 200px;border-radius: 10px;}
+* {font-family: monospace, sans-serif;}
 
-figcaption{padding-top: 18px;}
+body{
+    color: #fff;
+}
+.container{
+    color: #000;
+}
+.content{
+    background-color: #fff;
+}
+/**/
+.rowLinks{
+
+    }
+/**/
+h1{margin-top: 0;}
+/**/
+.logo{
+    width: 300px;
+}
+/**/
+div.header{
+    background-color: #9f2821;
+    padding: 20px 0 20px 0;
+}
+
+/**/
+.sounds{
+    background-color: rgba(91, 192, 222, 0.7);
+    border-radius: 15px;
+    margin: 10px;
+}
+/**/
+iframe{margin: 0 auto;}
+/**/
+footer{
+  background-color: #9f2821;
+  padding: 20px;
+}
 #skrillex{
   border-radius: 15px;
   margin: 0 auto;
   width: 80%;
 }
-/**/
-#nameCoder{color: blue;}
-#nameArtist{background-color: #dbdbdb;}
-/**/
-.sounds{background-color: #dbdbdb;border-radius: 15px;}
-/**/
-iframe{margin: 0 auto;}
-/**/
-footer{
-  background-color: #dbdbdb;
-  padding: 20px;
+#nameCoder a{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    transition: 0.5s;
+}
+#nameCoder a:hover{
+    text-decoration: underline;
+    transition: 0.5s;
 }

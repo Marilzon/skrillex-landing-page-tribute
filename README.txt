@@ -1,5 +1,0 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Marilzon/pen/xXqdKY. /
-
-github pages: https://marilzon.github.io/skrillex-landing-page-tribute/.
-
- 
