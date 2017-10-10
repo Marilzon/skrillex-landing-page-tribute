@@ -2,12 +2,21 @@
 
 body{
     color: #fff;
+    width: 100%;
+    height: 100%;
+    
+    background-image: url('/image/SkrillBG.jpg');
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .container{
-    color: #000;
+    
+    color: #fff;
 }
 .content{
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.22);
 }
 /**/
 .rowLinks{
@@ -24,10 +33,9 @@ div.header{
     background-color: #9f2821;
     padding: 20px 0 20px 0;
 }
-
 /**/
 .sounds{
-    background-color: rgba(91, 192, 222, 0.7);
+    background-color: rgba(0, 0, 0, 0.22);
     border-radius: 15px;
     margin: 10px;
 }
@@ -38,6 +46,7 @@ footer{
   background-color: #9f2821;
   padding: 20px;
 }
+
 #skrillex{
   border-radius: 15px;
   margin: 0 auto;
