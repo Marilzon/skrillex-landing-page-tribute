@@ -6,10 +6,7 @@ body{
     height: 100%;
     background-color: rgba(0, 0, 0, 0.22);
 }
-.container{
-    
-    color: #fff;
-}
+.container{color: #fff;}
 .content{
     background: url(https://i.imgur.com/8a3GASC.jpg);
     background-attachment: fixed;
